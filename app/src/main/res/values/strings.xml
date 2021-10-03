@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boilerplate</string>
+
+    <string name="base_url">https://api.handyservicios.com/v1/</string>
+</resources>
