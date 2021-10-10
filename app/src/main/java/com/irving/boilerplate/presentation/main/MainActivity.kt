@@ -1,8 +1,7 @@
-package com.irving.boilerplate.presentation
+package com.irving.boilerplate.presentation.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.irving.boilerplate.R
 import com.irving.boilerplate.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
